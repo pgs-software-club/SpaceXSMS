@@ -16,7 +16,7 @@ Every request requires your API key, passed as the `key` parameter.
 key=YOUR_API_KEY
 ```
 
-** Please contact Shibam Guragai at the Hackathon Venue for the API Key**
+** Please contact Shibam Guragai at the Hackathon Venue for the API Key **
 
 You can view and regenerate your API key from your account dashboard. Treat it like a password — anyone with the key can send SMS on your account.
 
